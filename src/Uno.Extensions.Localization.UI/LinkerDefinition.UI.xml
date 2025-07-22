@@ -1,6 +1,0 @@
-﻿<linker>
-	<assembly fullname="Uno.Extensions.Localization.UI" >
-		<type fullname="Uno.Extensions.Localization.LocalizationConfiguration" />
-		<type fullname="Uno.Extensions.Localization.LocalizationSettings" />
-	</assembly>
-</linker>
